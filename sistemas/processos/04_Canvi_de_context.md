@@ -5,4 +5,3 @@ El canvi de context és un procés crític en la gestió de processos. Quan un p
 Aquesta operació assegura una transició suau entre processos i permet la multitasca, ja que permet que diversos processos compartixin el temps de CPU.
 
 
-[processos](processos)

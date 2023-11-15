@@ -15,4 +15,3 @@ Els processos poden ser bloquejats quan esperen algun esdeveniment, com ara una 
 ![transició_processos](transicio.png)
 
 
-[processos](processos)

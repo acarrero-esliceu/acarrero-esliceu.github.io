@@ -11,3 +11,6 @@ Cada procés té assignat un espai de memòria que conté el seu codi, dades i u
 
 ### 4. Descriptors de Fitxers
 Els descriptors de fitxers emmagatzemen informació sobre els fitxers oberts pel procés, facilitant la comunicació i l'intercanvi de dades amb l'entorn del sistema operatiu.
+
+
+[processos](processos)

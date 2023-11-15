@@ -10,3 +10,6 @@ Aquest algoritme assigna un temps fix de CPU a cada procés en seqüència. Evit
 
 ### 3. Prioritat
 En aquesta tècnica, els processos es classifiquen segons la seva prioritat i s'executen de més alta a més baixa prioritat.
+
+
+[processos](processos)

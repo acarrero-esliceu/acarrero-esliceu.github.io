@@ -13,3 +13,6 @@ Els processos poden ser bloquejats quan esperen algun esdeveniment, com ara una 
 
 ## Transició d'estats
 ![transició_processos](transicio.png)
+
+
+[processos](processos)

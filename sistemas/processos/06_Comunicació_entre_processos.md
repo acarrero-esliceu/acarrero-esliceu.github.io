@@ -7,3 +7,6 @@ Diversos processos poden compartir àrees de memòria per intercanviar informaci
 
 ### 2. Comunicació per Missatges
 Els processos poden intercanviar informació mitjançant missatges, evitant la necessitat de compartir memòria. Aquesta abstracció facilita la comunicació entre processos, però pot tenir un cost addicional de rendiment.
+
+
+[processos](processos)
